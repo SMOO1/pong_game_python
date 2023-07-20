@@ -1,0 +1,1 @@
+Classic pong I made with python using the pygame library. First player to get to 15 points wins, if there is no player 2 present IRL, there is the option to use a simple ai to replace them. The game has the option to play again with the play again button. 
