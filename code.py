@@ -39,9 +39,6 @@ winnerfont = pygame.font.Font('freesansbold.ttf', 32)
 winnertext = ""
 
 
-countdowntime = 3
-
-
 #game loop 
 while True:
 
