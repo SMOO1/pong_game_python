@@ -40,7 +40,6 @@ winnertext = ""
 
 
 countdowntime = 3
-clock = pygame.time.Clock()
 
 
 #game loop 
